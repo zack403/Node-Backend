@@ -1,0 +1,53 @@
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T12:48:42.847Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T12:48:44.541Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T13:13:04.964Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T13:14:34.819Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T13:14:35.975Z"}
+{"message":"failed to reconnect after 30 attempts with interval 1000 ms","stack":"MongoNetworkError: failed to reconnect after 30 attempts with interval 1000 ms\n    at Connection.<anonymous> (C:\\development\\spaandapi\\api\\node_modules\\mongodb-core\\lib\\connection\\pool.js:364:13)\n    at Connection.emit (events.js:182:13)\n    at Socket.<anonymous> (C:\\development\\spaandapi\\api\\node_modules\\mongodb-core\\lib\\connection\\connection.js:246:50)\n    at Object.onceWrapper (events.js:273:13)\n    at Socket.emit (events.js:182:13)\n    at emitErrorNT (internal/streams/destroy.js:82:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)\n    at process.internalTickCallback (internal/process/next_tick.js:72:19)","name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","timestamp":"2018-12-29T13:16:21.399Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T14:20:23.104Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T14:20:25.915Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T14:25:16.829Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T14:25:18.313Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T14:43:50.512Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T14:43:51.698Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T14:45:22.697Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T14:45:23.798Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T14:47:06.235Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T14:47:07.339Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:04:53.807Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:04:54.871Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:09:26.337Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:09:27.441Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:19:03.049Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:19:06.003Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\development\\spaandapi\\api\\node_modules\\express\\lib\\response.js:767:10)\n    at ServerResponse.location (C:\\development\\spaandapi\\api\\node_modules\\express\\lib\\response.js:884:15)\n    at ServerResponse.redirect (C:\\development\\spaandapi\\api\\node_modules\\express\\lib\\response.js:922:18)\n    at router.post (C:\\development\\spaandapi\\api\\routes\\user.js:41:7)","level":"error","timestamp":"2018-12-29T15:20:21.094Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:21:33.814Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:21:34.939Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (C:\\development\\spaandapi\\api\\node_modules\\express\\lib\\response.js:767:10)\n    at ServerResponse.location (C:\\development\\spaandapi\\api\\node_modules\\express\\lib\\response.js:884:15)\n    at ServerResponse.redirect (C:\\development\\spaandapi\\api\\node_modules\\express\\lib\\response.js:922:18)\n    at router.post (C:\\development\\spaandapi\\api\\routes\\user.js:41:7)","level":"error","timestamp":"2018-12-29T15:22:11.685Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:24:46.272Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:24:47.378Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:28:01.177Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:28:02.277Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:30:59.398Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:31:00.546Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:32:53.252Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:32:54.336Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:51:36.128Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:51:37.470Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:53:50.962Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:53:52.018Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:57:31.328Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:57:32.398Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-29T15:57:57.025Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-29T15:57:58.163Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-30T19:39:52.191Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-30T19:43:16.352Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-30T19:43:17.418Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-30T19:54:29.631Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-30T19:54:30.703Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-30T20:02:01.131Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-30T20:02:02.209Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-30T20:04:25.987Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-30T20:04:27.024Z"}
+{"level":"info","message":"Server is listening on port 4000","timestamp":"2018-12-30T20:15:17.613Z"}
+{"level":"info","message":"connected to mongodb://localhost/spaandapi...","timestamp":"2018-12-30T20:15:18.669Z"}
